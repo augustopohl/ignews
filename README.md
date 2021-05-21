@@ -1,3 +1,5 @@
+https://ignews-taupe.vercel.app/
+
 ## O projeto
 
 O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação em ReactJS com NextJS para listagem de posts e sistema de inscrição(subscription).
